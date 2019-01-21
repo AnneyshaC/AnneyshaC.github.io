@@ -102,7 +102,7 @@ span.menu {
   margin-right: 13em;
 }
 .header{
-	background: url(../images/anne1.jpg) no-repeat 0px -127px;
+	background: url(..) no-repeat 0px -127px;
 	
   background-size: cover;
   min-height: 600px;
