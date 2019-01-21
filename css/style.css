@@ -102,7 +102,7 @@ span.menu {
   margin-right: 13em;
 }
 .header{
-	background: url(../images/anne1.jpg) no-repeat 0px -127px;
+	background: url(../images/DSC03853.JPG) no-repeat 0px -127px;
 	
   background-size: cover;
   min-height: 600px;
@@ -237,7 +237,7 @@ label{
 	line-height:1.8em;
 	margin-top:0.5em;
 }
-/*
+
 .about-left{
 	float: left;
   width: 48.2%;
@@ -245,8 +245,7 @@ label{
   min-height: 302px;
   background-size: cover;
 }
-*/
-/*----*/
+
 .gallery {
 	margin:4em 0;
 }
